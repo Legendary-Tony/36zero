@@ -8,12 +8,12 @@
 	<title>36zero | @yield('title')</title>
 	<link rel="stylesheet" href="{{ asset('main.css') }}">
 	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-	<link rel="stylesheet" href="{{ asset('OwlCarousel/dist/assets/owl.carousel.css') }}">
-	<link rel="stylesheet" href="{{ asset('OwlCarousel/dist/assets/owl.theme.default.css') }}">
-	<link rel="stylesheet" href="{{ asset('aos-master/aos-master/dist/aos.css') }}">
-	<link rel="stylesheet" href="{{ asset('animate/animate.css') }}">
-	<link rel="stylesheet" href="{{ asset('bootstrap/css/bootstrap.css') }}">
-	<link rel="stylesheet" href="{{ asset('fonts/css/all.css') }}">
+	<link rel="stylesheet" href="OwlCarousel/dist/assets/owl.carousel.css">
+	<link rel="stylesheet" href="OwlCarousel/dist/assets/owl.theme.default.css">
+	<link rel="stylesheet" href="aos-master/aos-master/dist/aos.css">
+	<link rel="stylesheet" href="animate/animate.css">
+	<link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+	<link rel="stylesheet" href="fonts/css/all.css">
 	<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 	@section('header_css')
