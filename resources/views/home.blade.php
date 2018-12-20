@@ -15,7 +15,7 @@
         <h2 class="text-light home_hero">GROW YOUR BUSINESS</h2>
         <p class="text-light text-light home_para">A Creative marketing communication Agency, we are in business to help you solve all of
         your marketing communications needs and arrive at your expected result.</p>
-        <a href="contact.html"><button class="btn btn-outline-light">Start a Project</button></a>
+        <a href="/contact"><button class="btn btn-outline-light">Start a Project</button></a>
       </div>
     </div>
   </div>
