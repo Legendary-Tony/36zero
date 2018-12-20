@@ -6,7 +6,7 @@
 	<link rel="icon" type="image/png" sizes="16x16" href="images/favicon.jpg">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title>36zero | @yield('title')</title>
-	<link rel="stylesheet" href="{{ asset('main.css') }}">
+	<link rel="stylesheet" href="main.css">
 	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 	<link rel="stylesheet" href="OwlCarousel/dist/assets/owl.carousel.css">
 	<link rel="stylesheet" href="OwlCarousel/dist/assets/owl.theme.default.css">
